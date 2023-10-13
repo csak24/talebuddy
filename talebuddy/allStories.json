@@ -1,4 +1,4 @@
 {
-    "total_number_of_stories":0,
-    "story_paths":[]
+    "total_number_of_stories":1,
+    "story_paths":[ "stories\newstory.json"]
 }

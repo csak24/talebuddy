@@ -1,0 +1,19 @@
+{
+    "title": "A Story1",
+    "number_of_pages": 1,
+    "pages": [
+        {
+            "page_title": "once there is a path",
+            "page_content": [
+                "path guide to destination"
+               
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "name": "my mind",
+            "url": "mymind@me.com"
+        }
+    ]
+}
